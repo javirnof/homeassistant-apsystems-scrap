@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "address": "ECU IP Address",
+          "alias": "ECU alias"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Canno't connect to the ecu",
+      "unknown": "[%key:common::config_flow::error::unknown%]"
+    },
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_device%]"
+    }
+  }
+}

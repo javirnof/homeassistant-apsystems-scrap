@@ -1,0 +1,18 @@
+{
+  "domain": "apsystems_scrap",
+  "name": "ApSystems Ecu",
+  "codeowners": [
+    "@javirnof"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/apsystems_scrap",
+  "homekit": {},
+  "iot_class": "cloud_push",
+  "requirements": [
+    "aiohttp==3.8.5",
+    "beautifulsoup4==4.12.2"
+  ],
+  "ssdp": [],
+  "zeroconf": []
+}

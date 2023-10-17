@@ -1,0 +1,19 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Canno't connect to the ecu",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "address": "ECU IP Address",
+                    "alias": "ECU alias"
+                }
+            }
+        }
+    }
+}
