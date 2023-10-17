@@ -10,8 +10,8 @@
   "homekit": {},
   "iot_class": "cloud_push",
   "requirements": [
-    "aiohttp==3.8.5",
-    "beautifulsoup4==4.12.2"
+    "aiohttp>=3.8.5",
+    "beautifulsoup4>=4.12.2"
   ],
   "ssdp": [],
   "zeroconf": [],
