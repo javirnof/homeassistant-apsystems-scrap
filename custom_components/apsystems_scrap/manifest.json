@@ -14,5 +14,6 @@
     "beautifulsoup4==4.12.2"
   ],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "1.0.0"
 }
